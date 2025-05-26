@@ -1,6 +1,6 @@
 # fb-utilities-extension
 
-![image](https://github.com/user-attachments/assets/8673fdff-b436-48fa-a8bf-dfba3ed18866)
+![image](https://github.com/user-attachments/assets/59cebf60-e700-4e64-8bb6-91c7dbaffb41)
 
 ## Features
 
@@ -29,14 +29,21 @@
 
 1. Download the latest version of the extension from the [release](https://github.com/DOTzX/fb-utilities-extension/releases/latest) page.
    Note: Be sure to download the top file listed, not the source code.
-3. Unpack the downloaded archive.
-4. Open your browser and navigate to the Extensions page or by entering `chrome://extensions/` in the address bar.
-5. Enable **Developer Mode** by toggling the switch located at the top-right corner of the Extensions page.
-6. Click on **Load Unpacked** and select the folder containing the downloaded extension files.
-7. Enable the extension.
-8. Choose the options corresponding to the elements you wish to hide within the extension settings.
-9. **Save** your preferences.
-10. Finally, open FB to start using the fb-utilities-extension.
+2. Unpack the downloaded archive.
+3. Open your browser and navigate to the Extensions page or by entering `chrome://extensions/` in the address bar.
+4. Enable **Developer Mode** by toggling the switch located at the top-right corner of the Extensions page.
+5. Click on **Load Unpacked** and select the folder containing the downloaded extension files.
+6. Enable the extension.
+7. Choose the options corresponding to the elements you wish to hide within the extension settings.
+8. **Save** your preferences.
+9. Finally, open FB to start using the fb-utilities-extension.
+
+## Updating
+
+1. Download the latest version of the extension.
+2. Unpack the downloaded archive to existing folder of the extension.
+3. Open your browser and navigate to the Extensions page or by entering `chrome://extensions/` in the address bar.
+4. Reload the extension.
 
 ## Note
 
@@ -55,3 +62,10 @@ How to use:
 - Reload/refresh page
 - Right click on the search page
 - Click **Filter Groups**.
+
+## Notification upon the release of a new update
+
+![image](https://github.com/user-attachments/assets/3bd0c469-2140-4796-9710-db67b6991526)
+
+![image](https://github.com/user-attachments/assets/f35afee4-2791-4524-8ff5-9622fb7a2831)
+![image](https://github.com/user-attachments/assets/f48244b4-00bf-4c04-b075-e37743ea4cb1)
