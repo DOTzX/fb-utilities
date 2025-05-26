@@ -1,6 +1,6 @@
 # fb-utilities-extension
 
-![image](https://github.com/user-attachments/assets/8673fdff-b436-48fa-a8bf-dfba3ed18866)
+![image](https://github.com/user-attachments/assets/59cebf60-e700-4e64-8bb6-91c7dbaffb41)
 
 ## Features
 
