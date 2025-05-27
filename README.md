@@ -21,9 +21,20 @@
 
 ## Requirements
 
-- Chrome / Chromium-based browser with extensions feature
-- FB user interface language is using English / Bahasa Indonesia
-- FB user interface is desktop, not mobile. (we will update it later)
+- Web browser with extension feature (see below)
+- FB user interface language is using English / Bahasa Indonesia.
+- FB user interface is desktop.
+
+### Web Browser
+
+- Brave
+- Google Chrome
+- Microsoft Edge
+- Opera / OperaGX
+- Vivaldi
+- Mozilla Firefox (coming soon)
+
+#### Coming soon for mobile version (excluding FB / FB Lite App)
 
 ## Installing
 
