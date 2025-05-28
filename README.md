@@ -27,12 +27,12 @@
 
 ### Web Browser
 
-- Brave
-- Google Chrome
-- Microsoft Edge
-- Opera / OperaGX
-- Vivaldi
-- Mozilla Firefox
+- Brave (Chromium-based)
+- Google Chrome (Chromium-based)
+- Microsoft Edge (Chromium-based)
+- Opera / OperaGX (Chromium-based)
+- Vivaldi (Chromium-based)
+- Mozilla Firefox (Firefox-based)
 
 #### Coming soon for mobile version (excluding FB / FB Lite App)
 
