@@ -32,14 +32,16 @@
 - Microsoft Edge
 - Opera / OperaGX
 - Vivaldi
-- Mozilla Firefox (coming soon)
+- Mozilla Firefox
 
 #### Coming soon for mobile version (excluding FB / FB Lite App)
 
-## Installing
+## Chrome / Chromium-based Web Browser
+
+### Installing 
 
 1. Download the latest version of the extension from the [release](https://github.com/DOTzX/fb-utilities-extension/releases/latest) page.
-   Note: Be sure to download the top file listed, not the source code.
+  - Note: Be sure to download file with prefix `chrome-x.x.x.zip`, not the source code.
 2. Unpack the downloaded archive.
 3. Open your browser and navigate to the Extensions page or by entering `chrome://extensions/` in the address bar.
 4. Enable **Developer Mode** by toggling the switch located at the top-right corner of the Extensions page.
@@ -49,12 +51,29 @@
 8. **Save** your preferences.
 9. Finally, open FB to start using the fb-utilities-extension.
 
-## Updating
+### Updating
 
 1. Download the latest version of the extension.
 2. Unpack the downloaded archive to existing folder of the extension.
 3. Open your browser and navigate to the Extensions page or by entering `chrome://extensions/` in the address bar.
 4. Reload the extension.
+
+## Firefox / Firefox-based Web Browser
+
+### Installing / Updating
+
+1. Download the latest version of the extension from the [release](https://github.com/DOTzX/fb-utilities-extension/releases/latest) page.
+  - Note: Be sure to download file with prefix `firefox-x.x.x.zip`, not the source code.
+2. Unpack the downloaded archive.
+3. Open your browser and navigate to `about:debugging` in the address bar.
+4. Click **This Firefox** (on the left panel)
+5. Click the **Load Temporary Add-on...** button.
+6. Navigate to your extension folder and select the `manifest.json` file.
+7. Choose the options corresponding to the elements you wish to hide within the extension settings.
+8. **Save** your preferences.
+9. Finally, open FB to start using the fb-utilities-extension.
+
+_Please do note_, this is temporary — the extension will be removed when Firefox restarts.
 
 ## Note
 
