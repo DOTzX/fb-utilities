@@ -79,10 +79,10 @@ _Please do note_, this is temporary — the extension will be removed when Firef
 
 ### Home filtering
 
-Only work at **Home** page, excluding other pages.
+Only work at **Home** and **Feeds** page, excluding other pages.
 
 If you don't want to use _Run directly_, how to use:
-- Right click on the **Home** page
+- Right click on the **Home** or **Feeds** page
 - Click **Filter Feeds**.
 
 ### Group search filtering
