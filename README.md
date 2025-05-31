@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/f6fd7466-c394-4bb7-bc2b-6b6df4113fb2)
 
+Support me:
+- [https://saweria.co/dotx](https://saweria.co/dotx)
+- [https://ko-fi.com/dotx_exe](https://ko-fi.com/dotx_exe)
+
 ## Features
 
 - Home filtering
